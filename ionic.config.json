@@ -1,0 +1,7 @@
+{
+  "name": "social-auth",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
